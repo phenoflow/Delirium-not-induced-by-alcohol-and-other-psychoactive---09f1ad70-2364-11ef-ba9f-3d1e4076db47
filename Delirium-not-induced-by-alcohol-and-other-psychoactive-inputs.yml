@@ -1,0 +1,48 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/delirium-not-induced-by-alcohol-and-other-psychoactive-reaction---primary.py
+inputModule3:
+  class: File
+  path: python/delirium-not-induced-by-alcohol-and-other-psychoactive-superimposed---primary.py
+inputModule4:
+  class: File
+  path: python/delirium-not-induced-by-alcohol-and-other-psychoactive-dementium---primary.py
+inputModule5:
+  class: File
+  path: python/delirium-not-induced-by-alcohol-and-other-psychoactive-subacute---primary.py
+inputModule6:
+  class: File
+  path: python/delirious-delirium-not-induced-by-alcohol-and-other-psychoactive---primary.py
+inputModule7:
+  class: File
+  path: python/infective-delirium-not-induced-by-alcohol-and-other-psychoactive---primary.py
+inputModule8:
+  class: File
+  path: python/organic-delirium-not-induced-by-alcohol-and-other-psychoactive---primary.py
+inputModule9:
+  class: File
+  path: python/cerebrovascular-delirium-not-induced-by-alcohol-and-other-psychoactive---primary.py
+inputModule10:
+  class: File
+  path: python/delirium---primary.py
+inputModule11:
+  class: File
+  path: python/traumatic-delirium-not-induced-by-alcohol-and-other-psychoactive---primary.py
+inputModule12:
+  class: File
+  path: python/delirium-not-induced-by-alcohol-and-other-psychoactive---primary.py
+inputModule13:
+  class: File
+  path: python/delirium-not-induced-by-alcohol-and-other-psychoactive-origin---primary.py
+inputModule14:
+  class: File
+  path: python/metabolic-delirium-not-induced-by-alcohol-and-other-psychoactive---primary.py
+inputModule15:
+  class: File
+  path: python/delirium-not-induced-by-alcohol-and-other-psychoactive-substance---primary.py
+inputModule16:
+  class: File
+  path: python/output-cases.py
